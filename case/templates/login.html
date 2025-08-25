@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Faça seu Login, usuário </title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="/static/login.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <form action="/login" id="login" method="post">
+            <label class="switch">
+                <input type="checkbox" id="togBtn">
+
+                <div class="slider round">
+                    <span class="user">bem vindo, admin!</span>
+                    <span class="admin">bem vindo, user!</span>
+                </div>
+            </label>
+
+            <input type="hidden" name="role" id="roleInput" value="user">
+
+
+            <h1 class="texto">Bem vindo(a)!</h1>
+            <div class="inputbox">
+                <label for="email"></label>
+                <input placeholder="Digite seu email" type="text" name="email">
+            </div>
+            <div class="inputbox">
+                <label for="senha"></label>
+                <input placeholder="Digite sua senha" type="password" name="senha">
+            </div> 
+             <button type="submit" class="login"> Login </button>
+    </div>
+
+  
+    </form>
+</body>
+
+
+</html>
