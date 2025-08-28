@@ -25,3 +25,5 @@ Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou at
 > tela principal
 <img width="1857" height="916" alt="image" src="https://github.com/user-attachments/assets/df97675f-51fc-49eb-a664-f5f3f7226566" />
 
+> tela principal com filtros por nome e pesquisa por empresa
+<img width="1852" height="918" alt="image" src="https://github.com/user-attachments/assets/972f2d18-1b6d-49a6-a537-8d061d1548ec" />
