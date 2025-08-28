@@ -16,5 +16,12 @@ http://127.0.0.1:5000
 
 Na tela de login, o acesso pode ser feito como Admin com o email: user1 e a senha: oeiruhn56146, ou como User com o email: user2 e a senha: 908ijofff. Qualquer outro cadastro levará para uma tela de erro de login.
 
-
 Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou até 100 dados por página e poderá filtrar as informações por menores e maiores valores e até pesquisar informações que queira.
+
+## telas
+> tela de login
+<img width="1875" height="921" alt="image" src="https://github.com/user-attachments/assets/ae516cd5-2ccb-424e-a7b1-2b41e03f78ef" />
+
+> tela principal
+<img width="1857" height="916" alt="image" src="https://github.com/user-attachments/assets/df97675f-51fc-49eb-a664-f5f3f7226566" />
+
