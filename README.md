@@ -14,7 +14,7 @@ Após o Flask iniciar, o site poderá ser acessado pelo navegador através do en
 
 http://127.0.0.1:5000
 
-Na tela de login, o acesso pode ser feito como Admin com o email: user1 e a senha: oeiruhn56146, ou como User com o email: user2 e a senha: 908ijofff. Qualquer outro cadastro levará para uma tela de erro de login.
+Na tela de login, o acesso pode ser feito como Admin ou como User.
 
 Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou até 100 dados por página e poderá filtrar as informações por menores e maiores valores e até pesquisar informações que queira.
 
