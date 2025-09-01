@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: #ecc8c8;
 }
@@ -39,3 +40,39 @@ table.dataTable tbody td {
   border: 1px solid #aaa;
   padding: 5px 10px;
 }
+=======
+body {
+  background-color: #ecc8c8;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 600;
+  color: #333;
+  background-color: #ebe1e1;
+}
+
+table.dataTable {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background: white;
+  overflow: hidden;
+}
+
+table.dataTable thead th {
+  background: #444;
+  color: #fff;
+  text-align: center;
+}
+
+table.dataTable tbody td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+  border-radius: 8px;
+  border: 1px solid #aaa;
+  padding: 5px 10px;
+}
+>>>>>>> 3f921b58e7e20227f446aaa50f236fa97e943bcf

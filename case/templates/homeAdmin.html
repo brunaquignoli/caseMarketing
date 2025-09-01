@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3f921b58e7e20227f446aaa50f236fa97e943bcf
 <head>
   <meta charset="UTF-8">
   <title> tela de administrador </title>
@@ -9,6 +12,7 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.13.1/js/dataTables.bootstrap5.min.js"></script>
+<<<<<<< HEAD
   <link rel="stylesheet" href="/static/css/home.css" />
 </head>
 
@@ -18,11 +22,19 @@
       <h1> Tabela Administrador </h1>
       <a class="btn btn-secondary" href="cadastroClientes.html" role="button"> Novo </a>
     </div>
+=======
+  <link rel="stylesheet" href="/static/css/home.css"/>
+</head>
+<body class="bg-light">
+  <div class="container py-4">
+    <h1 class="mb-4"> Tabela Administrador </h1>
+>>>>>>> 3f921b58e7e20227f446aaa50f236fa97e943bcf
 
     <table id="tabela" class="table table-striped table-hover" style="width:100%"></table>
   </div>
 
   <script>
+<<<<<<< HEAD
     $(document).ready(function () {
       $('#tabela').DataTable({
         processing: true,
@@ -47,3 +59,28 @@
 </body>
 
 </html>
+=======
+    $(document).ready(function() {
+        $('#tabela').DataTable({
+            processing: true,
+            serverSide: true,
+            ajax: "/api/admin_data",
+            columns: [
+                { data: "id", title: "id" },
+                { data: "name", title: "name" },
+                { data: "age", title: "age" },
+                { data: "telephone", title: "telephone" },
+                { data: "email", title: "email" },
+                { data: "country", title: "country" },
+                { data: "occupation", title: "occupation" },
+                { data: "company", title: "company" }
+            ],
+            pageLength: 25,
+            ordering: true,
+            searching: true
+        });
+    });
+  </script>
+</body>
+</html>
+>>>>>>> 3f921b58e7e20227f446aaa50f236fa97e943bcf
