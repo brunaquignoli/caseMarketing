@@ -1,0 +1,41 @@
+body {
+  background-color: #ecc8c8;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 600;
+  color: #333;
+  background-color: #ebe1e1;
+  padding: 15px;
+}
+
+table.dataTable {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background: white;
+  overflow: hidden;
+}
+
+table.dataTable thead th {
+  background: #444;
+  color: #fff;
+  text-align: center;
+}
+
+table.dataTable tbody td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+  border-radius: 8px;
+  border: 1px solid #aaa;
+  padding: 5px 10px;
+}
