@@ -1,11 +1,67 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Cadastrar novo cliente </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="/static/css/home.css" />
+    <title>Cadastrar novo cliente</title>
 </head>
-<body>
-    
+
+<body class="bg-light">
+    <div class="p-4">
+        <a class="btn btn-secondary" href="/homeAdmin" role="button"> Voltar </a>
+        <div class="container">
+            <h2 class="mb-4">Cadastrar novo cliente</h2>
+            <form class="row g-3" style="max-width: 100%">
+                <div class="col-md-12">
+                    <label for="name" class="form-label">Nome</label>
+                    <input type="text" class="form-control" id="name" name="name">
+                </div>
+
+                <div class="col-md-6">
+                    <label for="company" class="form-label">Empresa</label>
+                    <input type="text" class="form-control" id="company" name="company">
+                </div>
+
+                <div class="col-md-6">
+                    <label for="occupation" class="form-label">Ocupação</label>
+                    <input type="text" class="form-control" id="occupation" name="occupation">
+                </div>
+
+                <div class="col-md-12">
+                    <label for="email" class="form-label">E-mail</label>
+                    <input type="email" class="form-control" id="email" name="email">
+                </div>
+
+                <div class="col-md-2">
+                    <label for="age" class="form-label">Idade</label>
+                    <input type="number" class="form-control" id="age" name="age">
+                </div>
+
+                <div class="col-md-6">
+                    <label for="country" class="form-label">País</label>
+                    <select id="country" class="form-select" name="country">
+                        <option selected>Escolha...</option>
+                        <option>Brasil</option>
+                        <option>Argentina</option>
+                        <option>Estados Unidos</option>
+                    </select>
+                </div>
+
+                <div class="col-md-4">
+                    <label for="telephone" class="form-label">Telefone</label>
+                    <input type="text" class="form-control" id="telephone" name="telephone">
+                </div>
+
+                <div class="col-12">
+                    <button type="submit" class="btn btn-primary">Cadastrar</button>
+                </div>
+            </form>
+        </div>
+    </div>
 </body>
+
 </html>

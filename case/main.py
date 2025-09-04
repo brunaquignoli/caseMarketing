@@ -36,11 +36,13 @@ def apply_filters(df_in, search_value=None, order_col=None, order_dir="asc"):
 def home():
     return render_template('login.html')
 
-
 @app.route('/cadastroClientes')
 def novoCadastro():
     return render_template("cadastroClientes.html")
 
+@app.route('/homeAdmin')
+def voltar():
+    return render_template("homeAdmin.html")
 
 @app.route('/login', methods=['POST'])
 def login():
