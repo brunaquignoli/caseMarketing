@@ -165,6 +165,9 @@ def adicionar_cliente():
         "company": company
     }
 
+    if (name, age, telephone, email, country, occupation, company) == "" or None:
+        return "<h1> Por favor, preencha todos os campos do formulário. </h1>"
+
     df = pd.concat([df, pd.DataFrame([novo_cliente])], ignore_index=True)
     df.to_csv(caminho_csv, index=False)
 
