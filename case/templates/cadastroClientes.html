@@ -15,7 +15,7 @@
         <a class="btn btn-secondary" href="/homeAdmin" role="button"> Voltar </a>
         <div class="container">
             <h2 class="mb-4">Cadastrar novo cliente</h2>
-            <form class="row g-3" style="max-width: 100%">
+            <form class="row g-3" style="max-width: 100%" action="/cadastroCliente" method="post">
                 <div class="col-md-12">
                     <label for="name" class="form-label">Nome</label>
                     <input type="text" class="form-control" id="name" name="name">
@@ -57,8 +57,9 @@
                 </div>
 
                 <div class="col-12">
-                    <button type="submit" class="btn btn-primary">Cadastrar</button>
+                    <button type="submit" class="adicionar_cliente">Cadastrar</button>
                 </div>
+
             </form>
         </div>
     </div>

@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 import pandas as pd
+import csv
 
 app = Flask(__name__)
 
@@ -138,6 +139,37 @@ def user_data():
         "recordsFiltered": records_filtered,
         "data": data
     })
+
+@app.route("/cadastroCliente", methods=["POST"])
+def adicionar_cliente():
+    global df
+
+    name = request.form.get("name")
+    company = request.form.get("company")
+    occupation = request.form.get("occupation")
+    email = request.form.get("email")
+    age = request.form.get("age")
+    country = request.form.get("country")
+    telephone = request.form.get("telephone")
+
+    novo_id = df["id"].max() + 1 if not df.empty else 1
+
+    novo_cliente = {
+        "id": int(novo_id),
+        "name": name,
+        "age": age,
+        "telephone": telephone,
+        "email": email,
+        "country": country,
+        "occupation": occupation,
+        "company": company
+    }
+
+    df = pd.concat([df, pd.DataFrame([novo_cliente])], ignore_index=True)
+    df.to_csv(caminho_csv, index=False)
+
+
+    return "<h1> Cliente cadastrado com sucesso!.</h1>"
 
 
 if __name__ == "__main__":
