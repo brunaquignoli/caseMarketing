@@ -7,9 +7,28 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css">
     <link rel="stylesheet" href="/static/css/home.css" />
-    <title>Cadastrar novo cliente</title>
+    <title>Deletar cliente</title>
 </head>
-<body>
-    
+
+<body class="bg-light">
+    <div class="p-4">
+        <a class="btn btn-secondary" href="/homeAdmin" role="button">Voltar</a>
+        <div class="container mt-4">
+            <h2 class="mb-4">Deletar cliente</h2>
+
+            <form class="row g-3" action="/deletarCliente" method="POST" style="max-width: 400px;">
+                <div class="col-md-5">
+                    <label for="id" class="form-label">ID do cliente</label>
+                    <input type="number" class="form-control" id="id" name="id" required>
+                </div>
+
+                    <div>
+                        <button type="submit" class="btn btn-danger mt-3 w-40">Deletar</button>
+                    </div>
+
+            </form>
+        </div>
+    </div>
 </body>
+
 </html>

@@ -33,6 +33,8 @@ def apply_filters(df_in, search_value=None, order_col=None, order_dir="asc"):
 
     return df_local
 
+# todas as rotas que vão levar pras páginas:
+
 @app.route('/')
 def home():
     return render_template('login.html')
@@ -40,6 +42,10 @@ def home():
 @app.route('/cadastroClientes')
 def novoCadastro():
     return render_template("cadastroClientes.html")
+
+@app.route("/deletarClientes") 
+def deletar_clientes():
+    return render_template("deletarClientes.html")
 
 @app.route('/homeAdmin')
 def voltar():
@@ -172,7 +178,67 @@ def adicionar_cliente():
     df.to_csv(caminho_csv, index=False)
 
 
-    return "<h1> Cliente cadastrado com sucesso!.</h1>"
+    return '''<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="/static/css/home.css" />
+    <title>Cadastrar novo cliente</title>
+</head>
+
+<body class="bg-light">
+    <div class="p-4">
+        <a class="btn btn-secondary" href="/homeAdmin" role="button">Voltar</a>
+        <h1> Cliente cadastrado com sucesso!</h1>
+    </div>
+</body>
+    '''
+
+
+
+@app.route("/deletarCliente", methods=["GET", "POST"])
+def deletar_cliente():
+    global df
+    id = request.form.get('id')
+
+    if not id:
+        return "<h1>Por favor, informe um ID válido.</h1>"
+
+    try:
+        id = int(id)
+    except ValueError:
+        return "<h1>ID inválido. Digite um número inteiro.</h1>"
+
+    if id not in df['id'].values:
+        return "<h1>Não existe nenhum cliente com esse ID dentro do sistema.</h1>"
+
+    df = df[df['id'] != id]
+        
+    return '''<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="/static/css/home.css" />
+    <title>Cadastrar novo cliente</title>
+</head>
+
+<body class="bg-light">
+    <div class="p-4">
+        <a class="btn btn-secondary" href="/homeAdmin" role="button">Voltar</a>
+        <h1> Cliente deletado com sucesso!</h1>
+    </div>
+</body>
+'''
+    
+
+    # preciso definir que vai ser a linha que começa com a númeração id, e apagar ela
+    
+    
+
+
+
 
 
 if __name__ == "__main__":

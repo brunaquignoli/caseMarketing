@@ -1,104 +1,102 @@
 id,name,age,telephone,email,country,occupation,company
-1,Yeji,44,+55 64 94351-6983,yeji86@example.com,Japan,Developer,JYP Entertainment
-2,Kai,29,+55 38 92507-1136,kai20@example.com,Mexico,Teacher,Kakao M
-3,Han,25,+82 10-0000-1005,han@jypentertainment.com,South Korea,Singer,JYP Entertainment
-4,Amber,20,+55 35 96493-6673,amber59@example.com,Japan,Doctor,Kakao M
-5,Lia,50,+55 43 99442-5764,lia31@example.com,South Korea,Student,SM Entertainment
-6,Jisung,47,+55 39 97800-7430,jisung38@example.com,Brazil,Student,Cube Entertainment
-7,Eric Nam,43,+55 48 97492-4326,ericnam78@example.com,Brazil,Singer,CJ ENM
-8,Jinyoung,50,+55 12 95378-6943,jinyoung74@example.com,Japan,Engineer,YG Entertainment
-9,Maria Clara,33,+55 18 96119-3575,mariaclara39@example.com,Mexico,Teacher,Starship Entertainment
-10,Jhonny,19,+55 87 95843-3492,alice84@example.com,Japan,Engineer,YG Entertainment
-11,Jiwoo,20,+82 10-0000-1019,jiwoo@jypentertainment.com,South Korea,Singer,JYP Entertainment
-12,Luna,43,+55 62 99212-9802,luna98@example.com,Brazil,Designer,JYP Entertainment
-13,Hyunjin,25,+82 10-0000-1004,hyunjin@jypentertainment.com,South Korea,Singer,JYP Entertainment
-14,Suho,21,+55 25 96240-1681,suho58@example.com,USA,Actor,JYP Entertainment
-15,Onew,46,+55 48 91085-9409,onew81@example.com,India,Dancer,Starship Entertainment
-16,Pedro Silva,18,+55 85 91673-2713,pedrosilva48@example.com,Mexico,Teacher,BigHit Music
-17,Amber,44,+55 99 99595-5970,amber2@example.com,Thailand,Designer,SM Entertainment
-18,Jun Han,23,+82 10-0000-1034,junhan@jypentertainment.com,South Korea,Singer,JYP Entertainment
-19,Jay Park,48,+55 78 99049-1152,jaypark63@example.com,Thailand,Engineer,Cube Entertainment
-20,Eric Nam,39,+55 50 90563-5801,ericnam23@example.com,Thailand,Student,Cube Entertainment
-21,Sophia Rossi,27,+55 59 99278-7091,sophiarossi28@example.com,China,Doctor,Sony Music
-22,Kai,39,+55 42 90281-1642,kai62@example.com,South Korea,Teacher,Sony Music
-23,Fatima Zahra,38,+55 25 98555-3988,fatimazahra94@example.com,Japan,Actor,SM Entertainment
-24,Eric Nam,37,+55 87 97706-7743,ericnam13@example.com,Mexico,Developer,Kakao M
-25,Sungho,22,+82 10-0000-1010,sungho@kozentertainment.com,South Korea,Singer,KOZ Entertainment
-26,Amara Singh,38,+55 10 94374-4574,amarasingh34@example.com,USA,Actor,Cube Entertainment
-27,O.de,23,+82 10-0000-1033,o.de@jypentertainment.com,South Korea,Singer,JYP Entertainment
-28,Sullyoon,21,+82 10-0000-1017,sullyoon@jypentertainment.com,South Korea,Singer,JYP Entertainment
-29,Bang Chan,28,+82 10-0000-1001,bangchan@jypentertainment.com,South Korea,Singer,JYP Entertainment
-30,Luna,23,+55 51 95401-3251,luna23@example.com,Japan,Dancer,Kakao M
-31,Sophia Rossi,34,+55 17 96053-1529,sophiarossi6@example.com,France,Student,YG Entertainment
-32,Lia,18,+55 24 94923-7674,lia97@example.com,Japan,Doctor,JYP Entertainment
-33,Victor Hugo,43,+55 75 91307-7623,victorhugo73@example.com,France,Developer,JYP Entertainment
-34,Lucas Almeida,21,+55 34 97965-2676,lucasalmeida30@example.com,China,Singer,SM Entertainment
-35,Krystal,41,+55 86 90415-8640,krystal60@example.com,China,Student,YG Entertainment
-36,Leehan,21,+82 10-0000-1013,leehan@kozentertainment.com,South Korea,Singer,KOZ Entertainment
-37,Victor Hugo,48,+55 52 97750-6617,victorhugo87@example.com,Thailand,Student,Sony Music
-38,Baekhyun,28,+55 98 93609-3932,baekhyun9@example.com,South Korea,Dancer,Kakao M
-39,Seungmin,25,+82 10-0000-1007,seungmin@jypentertainment.com,South Korea,Singer,JYP Entertainment
-40,Jaehyun,22,+82 10-0000-1009,jaehyun@kozentertainment.com,South Korea,Singer,KOZ Entertainment
-41,Eric Nam,29,+55 50 99178-2867,ericnam97@example.com,France,Developer,YG Entertainment
-42,Chungha,42,+55 95 95781-4145,chungha15@example.com,India,Designer,Cube Entertainment
-43,Luna,28,+55 46 98482-8711,luna5@example.com,Mexico,Doctor,Sony Music
-44,Carlos Mendes,40,+55 19 94489-9193,carlosmendes11@example.com,Brazil,Student,YG Entertainment
-45,Jaehyun,44,+55 23 91739-6413,roses@example.com,Thailand,Actor,CJ ENM
-46,Eric Nam,47,+55 23 91920-1801,ericnam57@example.com,China,Developer,Sony Music
-47,Youngjae,22,+55 32 99959-9828,youngjae74@example.com,Brazil,Actor,CJ ENM
-48,Hiroshi Yamamoto,26,+55 16 94131-3591,hiroshiyamamoto13@example.com,India,Teacher,CJ ENM
-49,Lee Know,27,+82 10-0000-1002,leeknow@jypentertainment.com,South Korea,Singer,JYP Entertainment
-50,Suho,25,+55 51 93260-5285,suho9@example.com,Germany,Athlete,Kakao M
-51,BoA,41,+55 20 98940-7942,boa95@example.com,France,Developer,JYP Entertainment
-52,Lucas Almeida,49,+55 81 99423-7164,lucasalmeida71@example.com,Thailand,Dancer,Starship Entertainment
-53,Jungsu,24,+82 10-0000-1031,jungsu@jypentertainment.com,South Korea,Singer,JYP Entertainment
-54,Onew,47,+55 61 96031-1564,onew27@example.com,India,Singer,Starship Entertainment
-55,Amara Singh,23,+55 30 93196-5148,amarasingh57@example.com,Japan,Actor,Sony Music
-56,Yeji,22,+55 36 99981-7172,yeji46@example.com,Thailand,Teacher,SM Entertainment
-57,Amber,36,+55 30 90465-9346,amber12@example.com,China,Dancer,CJ ENM
-58,Felix,24,+82 10-0000-1006,felix@jypentertainment.com,South Korea,Singer,JYP Entertainment
-59,Sunmi,42,+55 74 97833-1205,sunmi63@example.com,Brazil,Athlete,JYP Entertainment
-60,Chen,49,+55 59 93017-7039,chen90@example.com,India,Singer,CJ ENM
-61,Changbin,26,+82 10-0000-1003,changbin@jypentertainment.com,South Korea,Singer,JYP Entertainment
-62,Yuna,37,+55 80 90761-1329,yuna81@example.com,Japan,Doctor,Sony Music
-63,Somi,19,+55 22 96606-3927,somi76@example.com,South Korea,Athlete,Starship Entertainment
-64,Alice,21,+55 93 91082-2760,alice58@example.com,USA,Developer,Sony Music
-65,Jeongin,23,+82 10-0000-1008,i.n@jypentertainment.com,South Korea,Singer,JYP Entertainment
-66,Jooyeon,23,+82 10-0000-1035,jooyeon@jypentertainment.com,South Korea,Singer,JYP Entertainment
-67,Bae,21,+82 10-0000-1018,bae@jypentertainment.com,South Korea,Singer,JYP Entertainment
-68,Danielle,20,+82 10-0000-1027,danielle@ador.com,South Korea,Singer,ADOR
-69,G-Dragon,35,+55 68 98451-3524,g-dragon69@example.com,Japan,Student,CJ ENM
-70,Ningning,23,+82 10-0000-1024,ningning@smentertainment.com,South Korea,Singer,SM Entertainment
-71,Sunmi,44,+55 37 92630-5895,sunmi35@example.com,Brazil,Athlete,JYP Entertainment
-72,Minho,40,+55 73 91450-6766,minho23@example.com,China,Dancer,BigHit Music
-73,Minji,21,+82 10-0000-1025,minji@ador.com,South Korea,Singer,ADOR
-74,James Lee,50,+55 67 91622-9646,jameslee2@example.com,Japan,Designer,JYP Entertainment
-75,Yuna,26,+55 18 91349-6876,yuna82@example.com,Germany,Singer,Kakao M
-76,Taesan,21,+82 10-0000-1012,taesan@kozentertainment.com,South Korea,Singer,KOZ Entertainment
-77,Yeji,41,+55 50 99471-8885,yeji44@example.com,Japan,Developer,JYP Entertainment
-78,Victor Hugo,20,+55 55 99672-3002,victorhugo95@example.com,India,Teacher,JYP Entertainment
-79,Pedro Silva,42,+55 39 99574-8202,pedrosilva44@example.com,Thailand,Doctor,BigHit Music
-80,BoA,36,+55 78 91777-4522,boa99@example.com,Thailand,Developer,CJ ENM
-81,Riwoo,22,+82 10-0000-1011,riwoo@kozentertainment.com,South Korea,Singer,KOZ Entertainment
-82,Eric Nam,30,+55 27 91929-8050,ericnam93@example.com,South Korea,Dancer,CJ ENM
-83,Jay Park,25,+55 70 98131-5945,jaypark27@example.com,USA,Engineer,CJ ENM
-84,Myung Jaehyun,22,+55 35 92074-8900,puppy@example.com,France,Student,JYP Entertainment
-85,John Doe,49,+55 63 91346-6110,johndoe75@example.com,Japan,Actor,SM Entertainment
-86,Jisung,44,+55 40 92097-5105,jisung71@example.com,USA,Student,JYP Entertainment
-87,Sophia Rossi,47,+55 89 95453-6975,sophiarossi78@example.com,Mexico,Singer,Kakao M
-88,Victor Hugo,29,+55 50 90097-2559,victorhugo92@example.com,Japan,Singer,BigHit Music
-89,Key,31,+55 21 90599-6427,key61@example.com,Japan,Actor,Sony Music
-90,Lily,23,+82 10-0000-1015,lily@jypentertainment.com,South Korea,Singer,JYP Entertainment
-91,BamBam,45,+55 33 94370-2712,bambam46@example.com,Thailand,Developer,CJ ENM
-92,Carlos Mendes,38,+55 69 96561-4226,carlosmendes15@example.com,USA,Dancer,Cube Entertainment
-93,Gunil,27,+82 10-0000-1030,gunil@jypentertainment.com,South Korea,Singer,JYP Entertainment
-94,Felix,27,+55 10 95152-9501,felix65@example.com,USA,Doctor,JYP Entertainment
-95,Seulgi,27,+55 63 95518-5177,seulgi92@example.com,Mexico,Student,Sony Music
-96,Akira Tanaka,24,+55 77 94877-5114,akiratanaka77@example.com,Japan,Athlete,Cube Entertainment
-97,Haewon,22,+82 10-0000-1016,haewon@jypentertainment.com,South Korea,Singer,JYP Entertainment
-98,Jinyoung,43,+55 73 92615-1936,jinyoung61@example.com,Germany,Doctor,BigHit Music
-99,Hiroshi Yamamoto,30,+55 42 95799-6299,hiroshiyamamoto42@example.com,Thailand,Athlete,Starship Entertainment
-100,Hwasa,32,+55 34 97167-6604,hwasa20@example.com,India,Dancer,Kakao M
-101,taesan,21,+55 11963401514,giantmountain@gmail.com,Brasil,singer,koz
-102,bruna,19,+55 11963401514,brunaquignoli@gmail.com,Brasil,developer,none
-103,,,,,Escolha...,,
+1,Yeji,44.0,+55 64 94351-6983,yeji86@example.com,Japan,Developer,JYP Entertainment
+2,Kai,29.0,+55 38 92507-1136,kai20@example.com,Mexico,Teacher,Kakao M
+3,Han,25.0,+82 10-0000-1005,han@jypentertainment.com,South Korea,Singer,JYP Entertainment
+4,Amber,20.0,+55 35 96493-6673,amber59@example.com,Japan,Doctor,Kakao M
+5,Lia,50.0,+55 43 99442-5764,lia31@example.com,South Korea,Student,SM Entertainment
+6,Jisung,47.0,+55 39 97800-7430,jisung38@example.com,Brazil,Student,Cube Entertainment
+7,Eric Nam,43.0,+55 48 97492-4326,ericnam78@example.com,Brazil,Singer,CJ ENM
+8,Jinyoung,50.0,+55 12 95378-6943,jinyoung74@example.com,Japan,Engineer,YG Entertainment
+9,Maria Clara,33.0,+55 18 96119-3575,mariaclara39@example.com,Mexico,Teacher,Starship Entertainment
+10,Jhonny,19.0,+55 87 95843-3492,alice84@example.com,Japan,Engineer,YG Entertainment
+11,Jiwoo,20.0,+82 10-0000-1019,jiwoo@jypentertainment.com,South Korea,Singer,JYP Entertainment
+12,Luna,43.0,+55 62 99212-9802,luna98@example.com,Brazil,Designer,JYP Entertainment
+13,Hyunjin,25.0,+82 10-0000-1004,hyunjin@jypentertainment.com,South Korea,Singer,JYP Entertainment
+14,Suho,21.0,+55 25 96240-1681,suho58@example.com,USA,Actor,JYP Entertainment
+15,Onew,46.0,+55 48 91085-9409,onew81@example.com,India,Dancer,Starship Entertainment
+16,Pedro Silva,18.0,+55 85 91673-2713,pedrosilva48@example.com,Mexico,Teacher,BigHit Music
+18,Jun Han,23.0,+82 10-0000-1034,junhan@jypentertainment.com,South Korea,Singer,JYP Entertainment
+19,Jay Park,48.0,+55 78 99049-1152,jaypark63@example.com,Thailand,Engineer,Cube Entertainment
+20,Eric Nam,39.0,+55 50 90563-5801,ericnam23@example.com,Thailand,Student,Cube Entertainment
+21,Sophia Rossi,27.0,+55 59 99278-7091,sophiarossi28@example.com,China,Doctor,Sony Music
+22,Kai,39.0,+55 42 90281-1642,kai62@example.com,South Korea,Teacher,Sony Music
+23,Fatima Zahra,38.0,+55 25 98555-3988,fatimazahra94@example.com,Japan,Actor,SM Entertainment
+24,Eric Nam,37.0,+55 87 97706-7743,ericnam13@example.com,Mexico,Developer,Kakao M
+25,Sungho,22.0,+82 10-0000-1010,sungho@kozentertainment.com,South Korea,Singer,KOZ Entertainment
+26,Amara Singh,38.0,+55 10 94374-4574,amarasingh34@example.com,USA,Actor,Cube Entertainment
+27,O.de,23.0,+82 10-0000-1033,o.de@jypentertainment.com,South Korea,Singer,JYP Entertainment
+28,Sullyoon,21.0,+82 10-0000-1017,sullyoon@jypentertainment.com,South Korea,Singer,JYP Entertainment
+29,Bang Chan,28.0,+82 10-0000-1001,bangchan@jypentertainment.com,South Korea,Singer,JYP Entertainment
+30,Luna,23.0,+55 51 95401-3251,luna23@example.com,Japan,Dancer,Kakao M
+31,Sophia Rossi,34.0,+55 17 96053-1529,sophiarossi6@example.com,France,Student,YG Entertainment
+32,Lia,18.0,+55 24 94923-7674,lia97@example.com,Japan,Doctor,JYP Entertainment
+33,Victor Hugo,43.0,+55 75 91307-7623,victorhugo73@example.com,France,Developer,JYP Entertainment
+34,Lucas Almeida,21.0,+55 34 97965-2676,lucasalmeida30@example.com,China,Singer,SM Entertainment
+35,Krystal,41.0,+55 86 90415-8640,krystal60@example.com,China,Student,YG Entertainment
+36,Leehan,21.0,+82 10-0000-1013,leehan@kozentertainment.com,South Korea,Singer,KOZ Entertainment
+37,Victor Hugo,48.0,+55 52 97750-6617,victorhugo87@example.com,Thailand,Student,Sony Music
+38,Baekhyun,28.0,+55 98 93609-3932,baekhyun9@example.com,South Korea,Dancer,Kakao M
+39,Seungmin,25.0,+82 10-0000-1007,seungmin@jypentertainment.com,South Korea,Singer,JYP Entertainment
+40,Jaehyun,22.0,+82 10-0000-1009,jaehyun@kozentertainment.com,South Korea,Singer,KOZ Entertainment
+41,Eric Nam,29.0,+55 50 99178-2867,ericnam97@example.com,France,Developer,YG Entertainment
+42,Chungha,42.0,+55 95 95781-4145,chungha15@example.com,India,Designer,Cube Entertainment
+43,Luna,28.0,+55 46 98482-8711,luna5@example.com,Mexico,Doctor,Sony Music
+44,Carlos Mendes,40.0,+55 19 94489-9193,carlosmendes11@example.com,Brazil,Student,YG Entertainment
+45,Jaehyun,44.0,+55 23 91739-6413,roses@example.com,Thailand,Actor,CJ ENM
+46,Eric Nam,47.0,+55 23 91920-1801,ericnam57@example.com,China,Developer,Sony Music
+47,Youngjae,22.0,+55 32 99959-9828,youngjae74@example.com,Brazil,Actor,CJ ENM
+48,Hiroshi Yamamoto,26.0,+55 16 94131-3591,hiroshiyamamoto13@example.com,India,Teacher,CJ ENM
+49,Lee Know,27.0,+82 10-0000-1002,leeknow@jypentertainment.com,South Korea,Singer,JYP Entertainment
+50,Suho,25.0,+55 51 93260-5285,suho9@example.com,Germany,Athlete,Kakao M
+51,BoA,41.0,+55 20 98940-7942,boa95@example.com,France,Developer,JYP Entertainment
+52,Lucas Almeida,49.0,+55 81 99423-7164,lucasalmeida71@example.com,Thailand,Dancer,Starship Entertainment
+53,Jungsu,24.0,+82 10-0000-1031,jungsu@jypentertainment.com,South Korea,Singer,JYP Entertainment
+54,Onew,47.0,+55 61 96031-1564,onew27@example.com,India,Singer,Starship Entertainment
+55,Amara Singh,23.0,+55 30 93196-5148,amarasingh57@example.com,Japan,Actor,Sony Music
+56,Yeji,22.0,+55 36 99981-7172,yeji46@example.com,Thailand,Teacher,SM Entertainment
+57,Amber,36.0,+55 30 90465-9346,amber12@example.com,China,Dancer,CJ ENM
+58,Felix,24.0,+82 10-0000-1006,felix@jypentertainment.com,South Korea,Singer,JYP Entertainment
+59,Sunmi,42.0,+55 74 97833-1205,sunmi63@example.com,Brazil,Athlete,JYP Entertainment
+60,Chen,49.0,+55 59 93017-7039,chen90@example.com,India,Singer,CJ ENM
+61,Changbin,26.0,+82 10-0000-1003,changbin@jypentertainment.com,South Korea,Singer,JYP Entertainment
+62,Yuna,37.0,+55 80 90761-1329,yuna81@example.com,Japan,Doctor,Sony Music
+63,Somi,19.0,+55 22 96606-3927,somi76@example.com,South Korea,Athlete,Starship Entertainment
+64,Alice,21.0,+55 93 91082-2760,alice58@example.com,USA,Developer,Sony Music
+65,Jeongin,23.0,+82 10-0000-1008,i.n@jypentertainment.com,South Korea,Singer,JYP Entertainment
+66,Jooyeon,23.0,+82 10-0000-1035,jooyeon@jypentertainment.com,South Korea,Singer,JYP Entertainment
+67,Bae,21.0,+82 10-0000-1018,bae@jypentertainment.com,South Korea,Singer,JYP Entertainment
+68,Danielle,20.0,+82 10-0000-1027,danielle@ador.com,South Korea,Singer,ADOR
+69,G-Dragon,35.0,+55 68 98451-3524,g-dragon69@example.com,Japan,Student,CJ ENM
+70,Ningning,23.0,+82 10-0000-1024,ningning@smentertainment.com,South Korea,Singer,SM Entertainment
+71,Sunmi,44.0,+55 37 92630-5895,sunmi35@example.com,Brazil,Athlete,JYP Entertainment
+72,Minho,40.0,+55 73 91450-6766,minho23@example.com,China,Dancer,BigHit Music
+73,Minji,21.0,+82 10-0000-1025,minji@ador.com,South Korea,Singer,ADOR
+74,James Lee,50.0,+55 67 91622-9646,jameslee2@example.com,Japan,Designer,JYP Entertainment
+75,Yuna,26.0,+55 18 91349-6876,yuna82@example.com,Germany,Singer,Kakao M
+76,Taesan,21.0,+82 10-0000-1012,taesan@kozentertainment.com,South Korea,Singer,KOZ Entertainment
+77,Yeji,41.0,+55 50 99471-8885,yeji44@example.com,Japan,Developer,JYP Entertainment
+78,Victor Hugo,20.0,+55 55 99672-3002,victorhugo95@example.com,India,Teacher,JYP Entertainment
+79,Pedro Silva,42.0,+55 39 99574-8202,pedrosilva44@example.com,Thailand,Doctor,BigHit Music
+80,BoA,36.0,+55 78 91777-4522,boa99@example.com,Thailand,Developer,CJ ENM
+81,Riwoo,22.0,+82 10-0000-1011,riwoo@kozentertainment.com,South Korea,Singer,KOZ Entertainment
+82,Eric Nam,30.0,+55 27 91929-8050,ericnam93@example.com,South Korea,Dancer,CJ ENM
+83,Jay Park,25.0,+55 70 98131-5945,jaypark27@example.com,USA,Engineer,CJ ENM
+84,Myung Jaehyun,22.0,+55 35 92074-8900,puppy@example.com,France,Student,JYP Entertainment
+85,John Doe,49.0,+55 63 91346-6110,johndoe75@example.com,Japan,Actor,SM Entertainment
+86,Jisung,44.0,+55 40 92097-5105,jisung71@example.com,USA,Student,JYP Entertainment
+87,Sophia Rossi,47.0,+55 89 95453-6975,sophiarossi78@example.com,Mexico,Singer,Kakao M
+88,Victor Hugo,29.0,+55 50 90097-2559,victorhugo92@example.com,Japan,Singer,BigHit Music
+89,Key,31.0,+55 21 90599-6427,key61@example.com,Japan,Actor,Sony Music
+90,Lily,23.0,+82 10-0000-1015,lily@jypentertainment.com,South Korea,Singer,JYP Entertainment
+91,BamBam,45.0,+55 33 94370-2712,bambam46@example.com,Thailand,Developer,CJ ENM
+92,Carlos Mendes,38.0,+55 69 96561-4226,carlosmendes15@example.com,USA,Dancer,Cube Entertainment
+93,Gunil,27.0,+82 10-0000-1030,gunil@jypentertainment.com,South Korea,Singer,JYP Entertainment
+94,Felix,27.0,+55 10 95152-9501,felix65@example.com,USA,Doctor,JYP Entertainment
+95,Seulgi,27.0,+55 63 95518-5177,seulgi92@example.com,Mexico,Student,Sony Music
+96,Akira Tanaka,24.0,+55 77 94877-5114,akiratanaka77@example.com,Japan,Athlete,Cube Entertainment
+97,Haewon,22.0,+82 10-0000-1016,haewon@jypentertainment.com,South Korea,Singer,JYP Entertainment
+98,Jinyoung,43.0,+55 73 92615-1936,jinyoung61@example.com,Germany,Doctor,BigHit Music
+99,Hiroshi Yamamoto,30.0,+55 42 95799-6299,hiroshiyamamoto42@example.com,Thailand,Athlete,Starship Entertainment
+100,Hwasa,32.0,+55 34 97167-6604,hwasa20@example.com,India,Dancer,Kakao M
+102,Bruna Quignoli Dias,25.0,11963401514,brunaquignoli@gmail.com,Brasil,estudante,projeto pessoal
+103,BRUNA,19,11963401514,brunaquignoli@gmail.com,Brasil,criou esse projeto aqui,projeto pessoal
