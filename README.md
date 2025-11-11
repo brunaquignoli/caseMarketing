@@ -31,5 +31,11 @@ Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou at
 > cadastrando novo cliente
 <img width="1876" height="632" alt="image" src="https://github.com/user-attachments/assets/d5dea457-699e-4094-a07e-0b5b4f2c263f" />
 <img width="1876" height="458" alt="image" src="https://github.com/user-attachments/assets/f6afa88c-d962-4b79-87a6-7ceb9c7a6aa4" />
+<img width="1877" height="326" alt="image" src="https://github.com/user-attachments/assets/5b8fc907-19ea-4663-b0fe-9eec38b2cb21" />
+
+> apagando o novo cliente por id
+<img width="1876" height="384" alt="image" src="https://github.com/user-attachments/assets/ecc09c86-296d-4a2c-9120-13ebe3b4800f" />
+<img width="1877" height="419" alt="image" src="https://github.com/user-attachments/assets/fec374f0-5abc-47aa-bb14-ce51ed6fe9b9" />
+<img width="1879" height="342" alt="image" src="https://github.com/user-attachments/assets/f86eef82-fdd3-4fb5-bd93-5035d39cf732" />
 
 
