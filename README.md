@@ -15,8 +15,10 @@ Após o Flask iniciar, o site poderá ser acessado pelo navegador através do en
 http://127.0.0.1:5000
 
 Na tela de login, o acesso pode ser feito como Admin ou como User.
-
 Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou até 100 dados por página e poderá filtrar as informações por menores e maiores valores e até pesquisar informações que queira.
+
+- [Telas de Admin](#tela-de-administrador)
+- [Telas de Usuário](#tela-de-usuario)  
 
 ## telas de administrador
 > tela de login
@@ -43,6 +45,6 @@ Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou at
 <img width="1879" height="342" alt="image" src="https://github.com/user-attachments/assets/f86eef82-fdd3-4fb5-bd93-5035d39cf732" />
 
 
-## telas de usuário
+## telas de usuario
 > As telas de usuário não possuem funcionalidades de adicionar nem deletar dados, apenas de visualização.
  <img width="1873" height="359" alt="image" src="https://github.com/user-attachments/assets/8b273894-65c3-4b29-b622-1805855469c8" />
