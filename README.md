@@ -46,5 +46,5 @@ Ao entrar no sistema, o usuário pode visualizar as tabelas com 10, 25, 50 ou at
 
 
 ### telas de usuario
-> As telas de usuário não possuem funcionalidades de adicionar nem deletar dados, apenas de visualização.
+> As telas de usuário não possuem funcionalidades de adicionar nem deletar dados, apenas de visualização, filtro e pesquisa.
  <img width="1873" height="359" alt="image" src="https://github.com/user-attachments/assets/8b273894-65c3-4b29-b622-1805855469c8" />
